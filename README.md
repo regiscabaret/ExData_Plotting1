@@ -28,7 +28,8 @@ The project is organized in 3 folders:
 		- Function name: draw_plot4()	
 		- if TRUE is passed as parameter, generate plot4.png in plots folder
 	- main: executes all above functions to get the data and draw all plots into 4 png files in plots folder
-	
+- data: the get_data() function will download the source file, unzip in this folder
+- plots: contains the four plots requested in the work assignment_	
 
 # Instructions
 
