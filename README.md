@@ -33,5 +33,5 @@ The project is organized in 3 folders:
 
 # Instructions
 
-Set the working directory to the scripts folder
-Call main() to pull the data from the source URL, read it into a data frame, then draw all four plots into individual png files within plots project sub-directory: plot1.png, plot2.png, plot3.png and plot4.png
+1. Set the working directory to the scripts folder
+2. Call main() to pull the data from the source URL, read it into a data frame, then draw all four plots into individual png files within plots sub-directory: plot1.png, plot2.png, plot3.png and plot4.png
